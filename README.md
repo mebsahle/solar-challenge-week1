@@ -74,7 +74,7 @@ jupyter lab notebooks/
 ```bash
 streamlit run app/main.py
 ```
-
+![streamlit_dashboard.png](images/streamlit_dashboard.png)
 ---
 
 ## 📂 Project Structure
