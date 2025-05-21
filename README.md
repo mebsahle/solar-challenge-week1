@@ -16,7 +16,7 @@ A reproducible data‐analysis pipeline and interactive dashboard for the Solar 
 
 ## 📋 Prerequisites
 
-- Python 3.9+  
+- Python 3.10+  
 - Git  
 - (Optional) Docker & Docker Compose—for containerized development
 
